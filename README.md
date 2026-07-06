@@ -7,7 +7,10 @@ This project predicts whether a loan application will be approved or rejected us
 To build a classification model that can predict loan approval status based on applicant details.
 
 ## Dataset
-Loan Approval Dataset
+
+The dataset used in this project was obtained from Kaggle:
+
+[Loan Approval Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 
 Features used:
 - Gender
